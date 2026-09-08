@@ -5,9 +5,8 @@ AI student at Xiamen University Malaysia, building end-to-end ML systems across 
 🎯 Seeking an AI/ML internship
 
 ## Currently Building
-- Deploying ML models as REST APIs (FastAPI)
-- SQL-backed feature pipelines for tabular ML
-- Transformer fine-tuning for NLP tasks
+- Transformer fine-tuning for NLP tasks (HuggingFace)
+- REST API deployment with FastAPI
 
 ## Tech Stack
 - **Languages:** Python, SQL
@@ -17,6 +16,7 @@ AI student at Xiamen University Malaysia, building end-to-end ML systems across 
 - **Tools:** Git, Linux, Jupyter
 
 ## Projects
+- 📊 [Customer Churn Prediction](https://github.com/AlibekBerik/churn-prediction) — SQL-based RFM features, XGBoost + SMOTE, deployed dashboard
 - 🏠 [Malaysia House Price Prediction](https://github.com/AlibekBerik/Malaysia_House_Price_Prediction) — LightGBM regression pipeline, R² 0.35 → 0.60
 - 🔢 [MNIST Digit Classifier (CNN)](https://github.com/AlibekBerik/MNIST-digit-detector) — CNN, 97% test accuracy
 - 📧 [Spam vs Ham Classifier](https://github.com/AlibekBerik/spam-vs-ham-classifier) — NLP text classification
